@@ -21,7 +21,7 @@ int solution(vector<int> people, int limit) {
             tail -= 1;
         }
     }
-    // È¿À²¼º1,3¹ø ½ÇÆÐ ÄÚµå
+    // íš¨ìœ¨ì„± í…ŒìŠ¤íŠ¸ 1, 3 ì‹¤íŒ¨ ì½”ë“œ
     /*
     while (people.size() > 1) {
         
