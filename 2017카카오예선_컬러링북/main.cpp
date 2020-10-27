@@ -11,6 +11,17 @@ vector<vector<bool>> visit;
 int glo_m = 0;
 int glo_n = 0;
 
+void init(){
+    visit.clear();
+    visit.resize(m, vector<bool>(n, false));
+    glo_m = 0;
+    glo_n = 0;
+    /*
+    dx[4] = ~
+    dy[4] = ~
+    */
+}
+
 int fun(int y, int x, vector<vector<int>> &picture) {
     visit[y][x] = true;
     int count = 1;
@@ -36,13 +47,14 @@ int fun(int y, int x, vector<vector<int>> &picture) {
     return count;
 }
 
-// Àü¿ª º¯¼ö¸¦ Á¤ÀÇÇÒ °æ¿ì ÇÔ¼ö ³»¿¡ ÃÊ±âÈ­ ÄÚµå¸¦ ²À ÀÛ¼ºÇØÁÖ¼¼¿ä.
+// ì „ì—­ ë³€ìˆ˜ë¥¼ ì •ì˜í•  ê²½ìš° í•¨ìˆ˜ ë‚´ì— ì´ˆê¸°í™” ì½”ë“œë¥¼ ê¼­ ì‘ì„±í•´ì£¼ì„¸ìš”.
 vector<int> solution(int m, int n, vector<vector<int>> picture) {
     int number_of_area = 0;
     int max_size_of_one_area = 0;
+    // ì „ì—­ ë³€ìˆ˜ ì´ˆê¸°í™” ì•ˆí•˜ë‹ˆê¹Œ í‹€ë¦¼. ì´ê±° í…Œì¼€ê°€ 0,0ìœ¼ë¡œ ë‚˜ì™€ì•¼ í•˜ëŠ”ë° ì´ˆê¸°í™” ì§€ëŒ€ë¡œ ì•ˆë˜ì„œ ê·¸ëŸ°ë“¯
+    init(m,n);
     glo_m = m;
     glo_n = n;
-    visit.resize(m, vector<bool>(n, false));
     for (int i = 0; i < m; i++) {
         for (int j = 0; j < n; j++) {
             if (visit[i][j] == false && picture[i][j] != 0) {
