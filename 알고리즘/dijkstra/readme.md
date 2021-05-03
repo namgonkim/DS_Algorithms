@@ -20,7 +20,18 @@
 distance[w] = min(distance[w], distance[u] + weight[u][w])
 ```
 
-## 수도코드
+## O(V^2)과 O(ElogV)
+* O(V^2)의 시간복잡도를 가지는 다익스트라
+  - V는 노드의 개수를 의미
+  - 직관적이고 쉽게 이해할 수 있음
+  - 각 단계마다 <b>방문하지 않은 노드 중 최단 거리가 가장 짧은 노드를 선택</b>하기 위해 매 단계마다 1차원 리스트의 모든 원소를 순차 탐색
+  
+* O(ElogV)의 시간복잡도를 가지는 다익스트라
+  - V는 노드의 개수, E는 간선의 개수
+  - 힙 자료구조를 사용해 인접한 노드 중 최단 거리가 가장 짧은 노드를 빠르게 찾음
+  - 현재 가장 가까운 노드를 저장하기 위한 목적으로 우선순위 큐를 추가로 이용
+
+## 수도코드 O(V^2)
 ```cpp
 dijkstra(start){
   // 시작 노드 설정 및 시작 노드 인접 테이블 설정
@@ -41,6 +52,36 @@ dijkstra(start){
       // 현 노드를 거쳐 다른 노드로 이동하는 거리가 더 짧은 경우
       if(cost < dist[graph[u][j]`s index])
         dist[graph[u][j]`s index] = cost; // 그럴경우 최단 경로 업데이트
+    }
+  }
+}
+```
+
+## 수도코드 O(ElogV)
+```cpp
+dijkstra(start){
+  // 1. 시작 노드로 가기 위한 경로 0으로 설정하고 큐에 삽입, 시작 노드 초기화
+  pq.push(make_pair(0,start)); // pair<dist cost, dist node index>
+  dist[start] = 0;
+  // 2. 큐가 비어있을때까지 진행
+  while(!pq.empty()){
+    // 3. 최단 거리가 가장 짧은 노드에 대한 정보(우선순위 큐 top에 저장되어 있음) 꺼내기
+    int distance = -pq.top().first; // dist cost
+    int now = pq.top().second;      // dist node index
+    pq.pop();
+    
+    // 4. 현재 노드가 이미 처리된 적이 있다면 무시
+    if(dist[now] < distance) continue;
+    
+    // 6. 현재 노드와 인접한 노드들을 확인
+    for(int i to graph[now].size(), i++) {
+      // 7. 현 노드를 거쳐 인접 노드로 이동
+      int cost = distance + graph[now][i]`s dist cost;
+      // 8. 현 노드를 거쳐 인접 노드로 이동하는 거리가 더 짧을 경우
+      if(cost < dist[graph[now][i]`s index]){
+        dist[graph[now][i]`s index] = cost // 해당 노드까지 가는 최단 경로 업데이트
+        pq.push(make_pair(-cost, graph[now][i]`s index)) // 최신 최단 경로 정보 큐에 삽입
+      }
     }
   }
 }
