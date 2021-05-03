@@ -36,11 +36,11 @@ dijkstra(start){
     // 방문 처리
     visited[u] = true
     // 현재 노드와 인접한 노드 확인
-    for(int j to graph[now]){
-      int cost = dist[u] + graph[now][j]`s dist cost;
+    for(int j to graph[u]){
+      int cost = dist[u] + graph[u][j]`s dist cost;
       // 현 노드를 거쳐 다른 노드로 이동하는 거리가 더 짧은 경우
-      if(cost < dist[graph[now][j]`s index])
-        dist[graph[now][j]`s index] = cost; // 그럴경우 최단 경로 업데이트
+      if(cost < dist[graph[u][j]`s index])
+        dist[graph[u][j]`s index] = cost; // 그럴경우 최단 경로 업데이트
     }
   }
 }
