@@ -5,6 +5,7 @@
 #include<queue>
 #include<utility>
 #include<stdio.h>
+#include<string>
 #include<stack>
 
 /*
