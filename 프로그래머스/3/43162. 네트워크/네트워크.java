@@ -1,48 +1,31 @@
 import java.util.*;
 class Solution {
-    public static int[] parent;
-    // 1 0 0 0 1
-    // 0 1 1 0 0 
-    // 0 1 1 1 0
-    // 0 0 1 1 1
-    // 1 0 0 1 1
-    
-    public static int findParent(int x) {
-        if(parent[x] != x) {
-            parent[x] = findParent(parent[x]);
-        }
-        return parent[x];
-    }
-    
-    public static void union(int a, int b) {
-        a = findParent(a);
-        b = findParent(b);
-        if(a < b) {
-            parent[b] = a;
-        } else {
-            parent[a] = b;
+    public static int cnt = 0;
+    public static boolean[] visited;
+
+    // 현재 노드에서 갈수 있는 모든 노드 탐색
+    public void dfs(int node, int n, int[][] computers) {
+        visited[node] = true;
+        
+        for(int i=0;i<n;i++) {
+            // 인접한 노드 중에 방문하지 않았다면 간다
+            if(visited[i] == false && computers[node][i] == 1) {
+                dfs(i, n, computers);
+            }
         }
     }
     
     public int solution(int n, int[][] computers) {
-        parent = new int[n];
+        visited = new boolean[n];
+        Arrays.fill(visited, false);
         for(int i=0;i<n;i++) {
-            parent[i] = i;
-        }
-        for(int i=0;i<computers.length;i++) {
-            for(int j=0;j<computers.length;j++) {
-                if(i!=j && computers[i][j] == 1) {
-                    union(i, j);
-                }
+            if(visited[i] == false) {
+                // dfs로 연결된 다른 노드 다 탐색함 
+                dfs(i, n, computers);
+                cnt += 1;
             }
         }
         
-        int answer = 0;
-        // parent 테이블에서 다른 원소 나오면 +1 
-        Set<Integer> set = new HashSet<>();
-        for(int i=0;i<parent.length;i++) {
-            set.add(findParent(parent[i]));
-        }
-        return set.size();
+        return cnt;
     }
 }
