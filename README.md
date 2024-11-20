@@ -7,6 +7,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/namgonkim/DS_Algorithms/tree/master/0048-rotate-image) |
 | [1036-rotting-oranges](https://github.com/namgonkim/DS_Algorithms/tree/master/1036-rotting-oranges) |
 ## Breadth-First Search
 |  |
@@ -16,6 +17,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/namgonkim/DS_Algorithms/tree/master/0048-rotate-image) |
 | [1036-rotting-oranges](https://github.com/namgonkim/DS_Algorithms/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
@@ -45,4 +47,8 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/namgonkim/DS_Algorithms/tree/master/0199-binary-tree-right-side-view) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/namgonkim/DS_Algorithms/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
