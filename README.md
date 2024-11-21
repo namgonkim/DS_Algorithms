@@ -39,14 +39,17 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/namgonkim/DS_Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/namgonkim/DS_Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/namgonkim/DS_Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Math
 |  |
 | ------- |
