@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/namgonkim/DS_Algorithms/tree/master/0048-rotate-image) |
+| [0221-maximal-square](https://github.com/namgonkim/DS_Algorithms/tree/master/0221-maximal-square) |
 | [1036-rotting-oranges](https://github.com/namgonkim/DS_Algorithms/tree/master/1036-rotting-oranges) |
 ## Breadth-First Search
 |  |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/namgonkim/DS_Algorithms/tree/master/0048-rotate-image) |
+| [0221-maximal-square](https://github.com/namgonkim/DS_Algorithms/tree/master/0221-maximal-square) |
 | [1036-rotting-oranges](https://github.com/namgonkim/DS_Algorithms/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/namgonkim/DS_Algorithms/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/namgonkim/DS_Algorithms/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
