@@ -28,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/namgonkim/DS_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 ## Design
 |  |
@@ -37,6 +38,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/namgonkim/DS_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 ## Tree
 |  |
