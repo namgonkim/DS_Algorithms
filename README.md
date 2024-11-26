@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/namgonkim/DS_Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 ## Trie
 |  |
 | ------- |
@@ -41,11 +42,13 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/namgonkim/DS_Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0341-flatten-nested-list-iterator](https://github.com/namgonkim/DS_Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/namgonkim/DS_Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0341-flatten-nested-list-iterator](https://github.com/namgonkim/DS_Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -60,4 +63,16 @@
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/namgonkim/DS_Algorithms/tree/master/0221-maximal-square) |
+## Stack
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/namgonkim/DS_Algorithms/tree/master/0341-flatten-nested-list-iterator) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/namgonkim/DS_Algorithms/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/namgonkim/DS_Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
