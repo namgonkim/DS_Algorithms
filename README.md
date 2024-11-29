@@ -7,6 +7,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/namgonkim/DS_Algorithms/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/namgonkim/DS_Algorithms/tree/master/0048-rotate-image) |
 | [0221-maximal-square](https://github.com/namgonkim/DS_Algorithms/tree/master/0221-maximal-square) |
 | [1036-rotting-oranges](https://github.com/namgonkim/DS_Algorithms/tree/master/1036-rotting-oranges) |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/namgonkim/DS_Algorithms/tree/master/0341-flatten-nested-list-iterator) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/namgonkim/DS_Algorithms/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
