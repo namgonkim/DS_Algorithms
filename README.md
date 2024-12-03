@@ -31,6 +31,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/namgonkim/DS_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+| [0394-decode-string](https://github.com/namgonkim/DS_Algorithms/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/namgonkim/DS_Algorithms/tree/master/0341-flatten-nested-list-iterator) |
+| [0394-decode-string](https://github.com/namgonkim/DS_Algorithms/tree/master/0394-decode-string) |
 ## Queue
 |  |
 | ------- |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/namgonkim/DS_Algorithms/tree/master/0035-search-insert-position) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/namgonkim/DS_Algorithms/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
