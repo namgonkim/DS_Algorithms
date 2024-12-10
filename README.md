@@ -34,6 +34,7 @@
 | [0014-longest-common-prefix](https://github.com/namgonkim/DS_Algorithms/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0394-decode-string](https://github.com/namgonkim/DS_Algorithms/tree/master/0394-decode-string) |
+| [0443-string-compression](https://github.com/namgonkim/DS_Algorithms/tree/master/0443-string-compression) |
 ## Design
 |  |
 | ------- |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/namgonkim/DS_Algorithms/tree/master/0113-path-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/namgonkim/DS_Algorithms/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
