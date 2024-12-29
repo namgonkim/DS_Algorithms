@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/namgonkim/DS_Algorithms/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0443-string-compression](https://github.com/namgonkim/DS_Algorithms/tree/master/0443-string-compression) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/namgonkim/DS_Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/namgonkim/DS_Algorithms/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/namgonkim/DS_Algorithms/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 ## Design
 |  |
 | ------- |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/namgonkim/DS_Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/namgonkim/DS_Algorithms/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
