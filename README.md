@@ -120,4 +120,8 @@
 |  |
 | ------- |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/namgonkim/DS_Algorithms/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/namgonkim/DS_Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
