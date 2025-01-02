@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/namgonkim/DS_Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/namgonkim/DS_Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 ## Trie
 |  |
@@ -84,6 +85,7 @@
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/namgonkim/DS_Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/namgonkim/DS_Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/namgonkim/DS_Algorithms/tree/master/0394-decode-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/namgonkim/DS_Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -91,6 +93,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/namgonkim/DS_Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/namgonkim/DS_Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 ## Iterator
 |  |
