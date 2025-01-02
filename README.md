@@ -111,6 +111,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/namgonkim/DS_Algorithms/tree/master/0086-partition-list) |
 | [0443-string-compression](https://github.com/namgonkim/DS_Algorithms/tree/master/0443-string-compression) |
 ## Greedy
 |  |
@@ -123,5 +124,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/namgonkim/DS_Algorithms/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/namgonkim/DS_Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
