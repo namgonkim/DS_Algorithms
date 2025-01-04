@@ -9,6 +9,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/namgonkim/DS_Algorithms/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/namgonkim/DS_Algorithms/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/namgonkim/DS_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/namgonkim/DS_Algorithms/tree/master/0221-maximal-square) |
 | [0403-frog-jump](https://github.com/namgonkim/DS_Algorithms/tree/master/0403-frog-jump) |
 | [1036-rotting-oranges](https://github.com/namgonkim/DS_Algorithms/tree/master/1036-rotting-oranges) |
@@ -22,11 +23,13 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/namgonkim/DS_Algorithms/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/namgonkim/DS_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/namgonkim/DS_Algorithms/tree/master/0221-maximal-square) |
 | [1036-rotting-oranges](https://github.com/namgonkim/DS_Algorithms/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/namgonkim/DS_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0208-implement-trie-prefix-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/namgonkim/DS_Algorithms/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 ## String
