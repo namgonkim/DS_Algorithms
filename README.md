@@ -45,6 +45,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/namgonkim/DS_Algorithms/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/namgonkim/DS_Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/namgonkim/DS_Algorithms/tree/master/0341-flatten-nested-list-iterator) |
@@ -88,6 +89,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/namgonkim/DS_Algorithms/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/namgonkim/DS_Algorithms/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/namgonkim/DS_Algorithms/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/namgonkim/DS_Algorithms/tree/master/0394-decode-string) |
