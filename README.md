@@ -9,6 +9,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/namgonkim/DS_Algorithms/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/namgonkim/DS_Algorithms/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/namgonkim/DS_Algorithms/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/namgonkim/DS_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/namgonkim/DS_Algorithms/tree/master/0221-maximal-square) |
 | [0403-frog-jump](https://github.com/namgonkim/DS_Algorithms/tree/master/0403-frog-jump) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/namgonkim/DS_Algorithms/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/namgonkim/DS_Algorithms/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/namgonkim/DS_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/namgonkim/DS_Algorithms/tree/master/0221-maximal-square) |
 | [1036-rotting-oranges](https://github.com/namgonkim/DS_Algorithms/tree/master/1036-rotting-oranges) |
@@ -141,4 +143,8 @@
 | ------- |
 | [0086-partition-list](https://github.com/namgonkim/DS_Algorithms/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/namgonkim/DS_Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/namgonkim/DS_Algorithms/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
