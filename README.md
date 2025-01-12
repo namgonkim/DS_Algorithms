@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/namgonkim/DS_Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/namgonkim/DS_Algorithms/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/namgonkim/DS_Algorithms/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 ## String
@@ -91,6 +92,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/namgonkim/DS_Algorithms/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/namgonkim/DS_Algorithms/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/namgonkim/DS_Algorithms/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/namgonkim/DS_Algorithms/tree/master/0086-partition-list) |
+| [0202-happy-number](https://github.com/namgonkim/DS_Algorithms/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/namgonkim/DS_Algorithms/tree/master/0443-string-compression) |
 ## Greedy
 |  |
