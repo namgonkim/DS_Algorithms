@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/namgonkim/DS_Algorithms/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/namgonkim/DS_Algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/namgonkim/DS_Algorithms/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/namgonkim/DS_Algorithms/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/namgonkim/DS_Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/namgonkim/DS_Algorithms/tree/master/0221-maximal-square) |
 | [0403-frog-jump](https://github.com/namgonkim/DS_Algorithms/tree/master/0403-frog-jump) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/namgonkim/DS_Algorithms/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/namgonkim/DS_Algorithms/tree/master/0066-plus-one) |
 ## Dynamic Programming
 |  |
 | ------- |
