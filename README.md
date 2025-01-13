@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/namgonkim/DS_Algorithms/tree/master/0014-longest-common-prefix) |
+| [0165-compare-version-numbers](https://github.com/namgonkim/DS_Algorithms/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0394-decode-string](https://github.com/namgonkim/DS_Algorithms/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/namgonkim/DS_Algorithms/tree/master/0443-string-compression) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/namgonkim/DS_Algorithms/tree/master/0086-partition-list) |
+| [0165-compare-version-numbers](https://github.com/namgonkim/DS_Algorithms/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/namgonkim/DS_Algorithms/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/namgonkim/DS_Algorithms/tree/master/0443-string-compression) |
 ## Greedy
