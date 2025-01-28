@@ -46,6 +46,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/namgonkim/DS_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/namgonkim/DS_Algorithms/tree/master/0014-longest-common-prefix) |
+| [0072-edit-distance](https://github.com/namgonkim/DS_Algorithms/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/namgonkim/DS_Algorithms/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0394-decode-string](https://github.com/namgonkim/DS_Algorithms/tree/master/0394-decode-string) |
@@ -102,6 +103,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/namgonkim/DS_Algorithms/tree/master/0072-edit-distance) |
 | [0221-maximal-square](https://github.com/namgonkim/DS_Algorithms/tree/master/0221-maximal-square) |
 | [0403-frog-jump](https://github.com/namgonkim/DS_Algorithms/tree/master/0403-frog-jump) |
 ## Stack
