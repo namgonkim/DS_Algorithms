@@ -13,6 +13,7 @@
 | [0057-insert-interval](https://github.com/namgonkim/DS_Algorithms/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/namgonkim/DS_Algorithms/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/namgonkim/DS_Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0162-find-peak-element](https://github.com/namgonkim/DS_Algorithms/tree/master/0162-find-peak-element) |
 | [0221-maximal-square](https://github.com/namgonkim/DS_Algorithms/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/namgonkim/DS_Algorithms/tree/master/0289-game-of-life) |
 | [0403-frog-jump](https://github.com/namgonkim/DS_Algorithms/tree/master/0403-frog-jump) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/namgonkim/DS_Algorithms/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/namgonkim/DS_Algorithms/tree/master/0162-find-peak-element) |
 ## Recursion
 |  |
 | ------- |
