@@ -17,6 +17,7 @@
 | [0221-maximal-square](https://github.com/namgonkim/DS_Algorithms/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/namgonkim/DS_Algorithms/tree/master/0289-game-of-life) |
 | [0403-frog-jump](https://github.com/namgonkim/DS_Algorithms/tree/master/0403-frog-jump) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/namgonkim/DS_Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1036-rotting-oranges](https://github.com/namgonkim/DS_Algorithms/tree/master/1036-rotting-oranges) |
 ## Breadth-First Search
 |  |
@@ -160,6 +161,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/namgonkim/DS_Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/namgonkim/DS_Algorithms/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
@@ -187,4 +189,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/namgonkim/DS_Algorithms/tree/master/0173-binary-search-tree-iterator) |
+## Sorting
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/namgonkim/DS_Algorithms/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
