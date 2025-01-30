@@ -39,6 +39,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/namgonkim/DS_Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/namgonkim/DS_Algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/namgonkim/DS_Algorithms/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/namgonkim/DS_Algorithms/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/namgonkim/DS_Algorithms/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -58,6 +59,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/namgonkim/DS_Algorithms/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/namgonkim/DS_Algorithms/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/namgonkim/DS_Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/namgonkim/DS_Algorithms/tree/master/0232-implement-queue-using-stacks) |
@@ -165,10 +167,15 @@
 | [0086-partition-list](https://github.com/namgonkim/DS_Algorithms/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/namgonkim/DS_Algorithms/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/namgonkim/DS_Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/namgonkim/DS_Algorithms/tree/master/0146-lru-cache) |
 | [0237-delete-node-in-a-linked-list](https://github.com/namgonkim/DS_Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/namgonkim/DS_Algorithms/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/namgonkim/DS_Algorithms/tree/master/0289-game-of-life) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/namgonkim/DS_Algorithms/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
